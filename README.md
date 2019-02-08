@@ -1,1 +1,1 @@
-# java_pravtice
+# java_practice
